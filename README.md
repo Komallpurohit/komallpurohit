@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Komal!
 
 🎨 UI/UX designer passionate about creating intuitive and engaging interfaces.<br/>
-💻 Frontend developer focused on responsive and accessible design.<br/>
+💻 Frontend developer focused on responsive and accessible design.<br/> 
 🎓 3rd-year Software Engineering student, exploring the intersection of tech and creativity.<br/>
 🌟 #learninginpublic while building cool projects.<br/> 
 📚 Currently diving deeper into React, accessibility, and design systems!<br/>
