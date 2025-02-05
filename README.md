@@ -1,10 +1,5 @@
 ## 👋 Hi, I'm Komal!
 
-
-
-
-
-
 🎨 UI/UX designer passionate about creating intuitive and engaging interfaces.<br/>
 💻 Frontend developer focused on responsive and accessible design.<br/>
 🎓 3rd-year Software Engineering student, exploring the intersection of tech and creativity.<br/>
